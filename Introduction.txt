@@ -1,0 +1,35 @@
+a) What is algorithm ?
+
+b) What is the data structure ?
+
+c) What is the difference between data structure and data types ?
+
+d) What are the category of data structure ?
+
+1) Array
+
+2) Stack
+    what is stack data structure ?
+        Stack is an abstract data type somewhat it is evolved from the array
+        LIFO
+
+    Difference between array and stack ?
+
+3) Queue 
+    What is queue data structure ?
+        Queue is an abstract data type data structure
+        FIFO
+
+4) Linked Data structure
+    What is linked Data structure
+
+5) Graphs
+    It is evolved from tree data structure
+
+6) tree
+
+7) Basic difference between graph and tree
+
+8) Recursion
+    a) what is recursion ?
+    b) What is cache mechanism ? (ie, Memoization)
