@@ -33,3 +33,18 @@ d) What are the category of data structure ?
 8) Recursion
     a) what is recursion ?
     b) What is cache mechanism ? (ie, Memoization)
+
+
+
+## Stacks
+
+--> Infix
+    Normal Type  a+b *d
+
+--> Prefix
+    First Operand than operator ab*+
+
+
+
+--> PostFix
+    First Operator than Operand *-ab
