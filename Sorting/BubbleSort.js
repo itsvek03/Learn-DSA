@@ -20,7 +20,5 @@ function bubbleSort(array) {
   return array
 }
 
-console.time()
 console.log('Sorted array is :->', bubbleSort(arr2))
 console.log('Sorted array is :->', bubbleSort(arr))
-console.timeEnd()
